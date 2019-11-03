@@ -1,0 +1,6 @@
+/home/liuyq/cwork/find/build/CMakeFiles/rebuild_cache.dir
+/home/liuyq/cwork/find/build/CMakeFiles/file.dir
+/home/liuyq/cwork/find/build/CMakeFiles/edit_cache.dir
+/home/liuyq/cwork/find/build/CMakeFiles/hw.dir
+/home/liuyq/cwork/find/build/CMakeFiles/sqlio.dir
+/home/liuyq/cwork/find/build/CMakeFiles/findsql.dir

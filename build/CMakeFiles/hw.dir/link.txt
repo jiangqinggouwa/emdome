@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-gcc-8   -rdynamic CMakeFiles/hw.dir/helloworld.c.o  -o hw 

@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-8   -g  -rdynamic CMakeFiles/rw.dir/rw.cpp.o  -o rw 

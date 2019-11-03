@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuyq/cwork/find/sqlio.cpp
+iostream
+-
+vector
+-
+string
+-
+dirent.h
+-
+vector
+-
+string
+-
+fstream
+-
+iostream
+-
+
